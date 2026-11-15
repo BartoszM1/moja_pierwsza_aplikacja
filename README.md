@@ -56,3 +56,20 @@ Przypomnienia wyświetlane są wewnątrz aplikacji, a nie jako systemowe powiado
 ## Cel projektu
 
 Celem projektu jest praktyczne wykorzystanie technologii Flutter i języka Dart do stworzenia funkcjonalnej aplikacji mobilnej służącej do organizacji zadań.
+
+## Zrzuty ekranu aplikacji
+
+### Ekran główny
+![Ekran główny aplikacji](screenshots/ekran_glowny.png)
+
+### Zadania i priorytety
+![Zadania i priorytety](screenshots/priorytety.png)
+
+### Ekran główny – tryb ciemny
+![Ekran główny w trybie ciemnym](screenshots/ekran_ciemny.png)
+
+### Statystyki – tryb ciemny
+![Statystyki w trybie ciemnym](screenshots/statystyki_ciemne.png)
+
+### Statystyki
+![Ekran statystyk](screenshots/statystyki.png)
